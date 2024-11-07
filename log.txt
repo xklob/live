@@ -2435,3 +2435,393 @@ Caleb has recently moved into a new home in Oakland, California.
 --- 
 
 i am so fucking tired i'm gonna take a nap befor factorio lol
+
+
+---
+
+Thread Start: https://x.com/kryptoklob/status/1854392661815480619
+
+http://chat.com
+11:04 AM · Nov 6, 2024
+·
+3.6M
+ Views
+ 
+ Uh 
+@sama
+?
+
+This opens the chatgpt app, which then opens up my Ticketmaster app on Android pixel 9 Pro XL. 
+
+Weird bug lmao
+
+Screen recording coming for you one moment
+6:27 PM · Nov 6, 2024
+ from Oakland, CA·
+5,740
+ Views
+View post engagements
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+Okay testing reveals that if I don't have the @ticketmastet app installed? Then it just opens up the 
+@ChatGPTapp
+ which THEN opens up the http://ChatGPT.com website. Lolz. 
+
+Still screen recording - as I type - uploading shortly.  Cheers.
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+* 
+@ticketmaster
+ 
+@chatgpt
+ 
+@sama
+ 
+@OpenAI
+ 
+@openaidevs
+ 
+@OpenAINewsroom
+
+Okay MORE DEBUG INFO FOR YA THIS IS FASCINATING 
+
+when I open the link from within the twitter appl on ANDROID pixel 9 Pro XL? it first opens the chat gpt app - and THEN opens http://ChatGPT.com in chrome. The app. 
+
+when I'm type http://chat.com into chrome?
+
+it just redirects. Weird deep linking bug ig. 
+
+2nd video sending....Now.
+6:39 PM · Nov 6, 2024
+ from Oakland, CA·
+108
+ Views
+View post engagements
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+OKAY ITS PER APP - but there does actually seem to be a bug within the chat gpt app, at least android version. 
+
+...still screen recording as I type this. 
+
+Gonna grab my iPhone (3 feet from me next to the slumbering cat Loki) and see if this apparent bug is there too. 🩵
+
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+Quote
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+GOING LIVE on http://TWITCH.TV/KRYPTOKLOB AND http://X.COM/KRYPTOKLOB TO APPLY FOR A JOB @ OPENAI ITSELF WHILE FINISHING DEBUGGING THIS CHATGPT BUG WITH ANDROID, AND MAYBE IPHONE, TOO.
+
+IN EXACTLY FIVE MINUTES. TIMER START!
+
+(cc @sama, @openai, @OpenAIDevs, @OpenAINewsroom, @tszzl,
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+Quote
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+aaaand we are live on https://twitch.tv/kryptoklob && https://x.com/kryptoklob! come watch me finish debugging this definite Android bug in the ChatGPT app, and perhaps there's a bug in the iPhone version, too.
+
+I also have like, 4-5 old phones, including a Samsung Galaxy phone which I
+Show more
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+Fixing camera. Recording this via OBS studio, btw.
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+2h
+Okay. Camera fixed.
+
+Given? I do literally intend for this debugging session - which both literally streaming right now - on http://twitch.tv/kryptoklob and http://x.com/kryptoklob? I should probably provide my resume, cover letter, etc.
+
+
+
+So here you go!
+
+Resume:
+
+---
+
+Okay. Camera fixed.
+
+Given? I do literally intend for this debugging session - which both literally streaming right now - on http://twitch.tv/kryptoklob and http://x.com/kryptoklob? I should probably provide my resume, cover letter, etc.
+
+So here you go!
+
+Resume: https://SegfaultSecuritySolutions.com/resume.
+
+Cover Letter:
+https://SegfaultSecuritySolutions.com/cover-letter
+
+Previous Application - w/ Nick, 02/02/2023.
+
+https://SegfaultSecuritySolutions.io/work-stuff/Opestuff/OpenAI/OpenAI+Application
+
+(Segfault Security Solutions is my LLC).
+
+Going for a quick 5min walk to test audio and then I'll go over what I've tested so far on stream & recording, while talking to the camera (just waved at the camera), then I'll resume testing on my iPhone 15 Pro Max, and probably all other 4-5 Android phones I have sitting like, 4-5 feet from me.
+
+Respectfully? Please consider this a job application.
+
+And if you don't have any open spots?
+
+Please consider donating for this #educationalContent - 
+@Patreon
+.com/kryptoklob. <3
+
+---
+
+Okay back - was a few minutes later because the moon is fucking beautiful tonight - had to snap a few pics.
+
+Here's the twitter stream broadcast url - couldn't figure out how to access it from mobile. Copy/pasting this to facebook & linkedin.
+
+(and eventually, to https://old.reddit.com/r/kryptoklob!)
+7:29 PM · Nov 6, 2024
+·
+25
+ Views
+ 
+ ---
+ 
+ (comment I posted informing that person of this stream)
+ 
+ ---
+ 
+ okay - as observed on stream just now 
+
+- if I have the 
+@ticketmaster
+ app installed AT ALL 
+
+- on a fresh boot 
+
+- phone updated 
+
+- all apps updated 
+
+- latest security update 
+
+- Pixel 9 Pro XL 
+
+- Build # AD1A.240905.004
+
+(Android 14)
+
+(Android Security Update: September 5, 2024)
+
+In previous jobs, I would just use 
+@androidstudio
+ to get all this information. Don't have it installed right now and would rather just do it raw, as it were.
+
+Vim vibes, tbh. I do miss using vim.
+7:42 PM · Nov 6, 2024
+·
+32
+ Views
+ 
+ ---
+ 
+ Running through the steps that I did earlier - not on stream, but this time, on stream.
+
+Uninstalling the 
+@ticketmaster
+ app now.
+
+Then clicking the link again, after powering off the phone, and turning it back.
+
+(again - like I just said on stream? a reboot is not sufficient - reboots do not always clear RAM.)
+7:43 PM · Nov 6, 2024
+·
+31
+ Views
+ 
+ ---
+ 
+ Uploading the screen recording first, though.
+
+Should be about two minutes with my current 
+@verizonbusiness
+ upload.
+
+:)
+
+---
+
+Endorsed. Moving on.
+7:47 PM · Nov 6, 2024
+·
+61
+ Views
+View post engagements
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+1h
+Status: phone powering up.
+
+Ticketmaster app uninstalled.
+
+...not in that order.
+
+---
+
+Phrase that I just said on stream:
+
+"If I have the app installed? I want to open http://chatgpt.com links in the app. Thus this is a deep-linking bug."
+7:51 PM · Nov 6, 2024
+·
+28
+ Views
+View post engagements
+
+
+---
+
+So, this part is confusing - seems like it did open ChatGPT when I clicked on the link from http://messenger.com (the app on Android) last time, but not this time? Quite confusing.
+
+Like I just said on stream? I could probably figure this out by installing Android Studio and running the debugger; done that before; don't really want to put in the time for that right now.
+
+(But if I "advance" in this job interview? Happy to show you in person; I'm only a few miles from OpenAI HQ! <3)
+
+[ I live in Oakland ]
+messenger.com
+Messenger
+Hang out anytime, anywhere - Messenger makes it easy and fun to stay close to your favorite people.
+
+---
+
+Now going to test on my iPhone 15 Pro Max.
+
+Here's part of why I got this iPhone - research project with my Literal BFF with Cat Friendships Bracelets Squid.
+Quote
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+Aug 26
+light-blue-heart (#technical)
+cover image via midjourney; prompt: "minimalist light blue heart emoji on pastel light colored engineer's sketchbook background --aspect 5:2 --s 250 - Image #3"
+
+ ---
+ 
+ Woo! Now signed into the OpenAI app on my iPhone.
+
+Also, kinda forgot to eat enough calories today, sooooo queue 30 minute break so that I can run to the 7-11 around the corner, buy some milk/yogurt to mix with my granola (literally), eat, and then continue testing - this time with my iPhone!
+
+(I once told my friend groups(s) that if I ever bought an iPhone? Something was very wrong  and they should be very concerned. I wonder if they took notice. lol.)
+
+Setting stream timer - BE BACK SOON.
+
+LOVE YA MY KLOBCATS!
+
+#klobcats 
+@klobcats
+ (my followers are called klobcats. duh.)
+8:04 PM · Nov 6, 2024
+·
+44
+ Views
+ 
+ ---
+ 
+ + 15:00 minutes, getting out the door took longer than expected (lol)
+8:19 PM · Nov 6, 2024
+·
+16
+ Views
+View post engagements
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+55m
+(...transferring around money on the blockchain before I leave)
+
+...takes a minute. shrug.
+
+
+---
+
+
+optimistic.etherscan.io
+OP Mainnet Transaction Hash (Txhash) Details | OP Mainnet Etherscan
+Ethereum (ETH) detailed transaction info for txhash 0xc421f79e6ca342cf4e8bdd6d315d973193f5882a7f636f958d79bf1e779483a8. The transaction status, block confirmation, gas fee, Ethereum, and token...
+8:26 PM · Nov 6, 2024
+·
+14
+ Views
+View post engagements
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+53m
+0x94A0afEfA1227711319bafc12cdEd2f99Bd53eeE
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+51m
+Just sent myself $18 from 
+@Optimism
+ to 
+@coinbase
+ ETH Receiving (Optimism).
+
+It's probably already in my 
+@coinbase
+ account.
+
+It'll definitely be ready to spend by the time I get to the 7-11, about 1/3rd of a mile away from my house.
+
+Damn I do love 
+@web3
+.
+
+
+---
+
+Be back soon! For more debugging of this odd ChatGPT && Android Bug!
+8:30 PM · Nov 6, 2024
+·
+19
+ Views
+View post engagements
+
+Caleb Ditchfield | 🩵✨🧪 | 🇺🇲🇺🇦🇬🇧 | klob.eth
+@kryptoklob
+·
+50m
+Resetting countdown timer to 50 minutes.
+
+Been working incredibly hard lately.
+
+No reason to rush.
+
+---
+
+Back home! Eating now. +20 minutes then we'll see if the bug exists on iPhone (15 Pro Max), too! :)
