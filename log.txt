@@ -3833,3 +3833,86 @@ Caleb Ditchfield | klob.eth | 🩵✨🧪
 P.S. - Rachel M. Davis - I've looped you into this email chain for a few reasons. First, so that you can see that I have contacts, too. Second, so that you don't try any ridiculous moves like filing a restraining order against me - your friend? Remember that I still love you, and I'll be here for you if and when you need me.
 
 P.P.S. - Rachel M. Davis - If you do not stand/speak up for me soon, I will be subpoenaing you for my libel, and, if I can make it happen, criminal harassment lawsuits against Duncan Andrew Sabien (and perhaps co; unsure of the state of the game, as it were - perhaps you can enlighten me? kaythxloveyoubai).
+
+---
+
+curl -Ls https://api.github.com/repos/achannarasappa/ticker/releases/latest \
+| grep -wo "https.*linux-amd64*.tar.gz" \
+| wget -qi - \
+&& tar -xvf ticker*.tar.gz ticker \
+&& chmod +x ./ticker \
+&& sudo mv ticker /usr/local/bin/
+
+---
+
+HAIII META OH YOU SAID THAT YOUR STOCK PRICE IS DOWN 2.46 PERCENT AS OF 8:52AM CALIFORNIA TIME ON 11/15/2024?
+
+HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.
+
+---
+
+HERE'S A LINKEDIN POST I JUST MADE:
+
+SEEMS THEY'RE STILL NOT GETTING THE PICTURE.
+
+
+
+EVERYONE SHORT $RDDT & $META.
+
+
+
+AND YE I MEAN SHORT SELL.
+
+
+
+DUNNO WHAT SHORT SELL MEANS?
+
+
+
+HERE; LEMME TEACH YA.
+
+
+
+@SAMA & @CHATGPT & @CHATGPTAPP YOU READY TO HELP ME TEACH THE DIRTY CORPOS A LESS?
+
+
+
+@PATREON.COM/KRYPTOKLOB WITH THE ASSIST!
+
+
+
+GOGOGOGOGOGOGOGOGOGOGOGOGOGOGOGOGO.
+
+
+
+https://imgur.com/gallery/me-yo-shoebox-money-we-buyin-whips-with-cryptocurrency-right-now-9BSpvlB
+
+
+
+https://imgur.com/gallery/entire-lightcone-sell-meta-rddt-until-they-get-picture-gogogogogogogogogo-PiqlPGP
+
+
+
+LET'S TAG SOME FRIENDS ON LINKEDIN.COM. (AND YES, RECRUITERS, I PROMISE I WILL GET BACK TO YOUR VOICEMAILS. SEE - COULDN'T SEND SMS OR RECEIVE CALLS FOR AN ENTIRE MONTH. COMMON GOOGLEFI<>VERIZON ISSUE THAT I HAVE WHEN I SWITCH CARRIERS).
+
+
+
+@COINBASE. HAVE YOU FIXED MY $200ETH BLACKHOLE ISSUE YET?
+
+
+
+SEE PREVIOUS TWEETS.
+
+
+
+NO I WILL NOT USE YOUR REGULAR SUPPORT SYSTEM.
+
+
+
+I'VE BEEN A CUSTOMER OF YOURS FOR TEN+ YEARS.
+
+
+
+KLOB.ETH (ILY. PLEASEFIXASAP. KTHXLOVEYOU. GOGOGO.)
+
+---
