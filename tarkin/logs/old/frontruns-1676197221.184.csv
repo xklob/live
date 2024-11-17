@@ -1,0 +1,2 @@
+﻿target,targetTxHash,targetTxGasPrice,targetTxGasAmount,estimatedNetProfit,estimatedGrossProfit,ourTxHash,ourTxGasPrice,ourTxGasAmount,actualGrossProfit,actualNetProfit,gasCost
+"0xb9b131611E58D7C82a9D9AaE4081273304b7bE98","0xbcacb7736afb1055461760b12ea0ac7d2293f2084282d4cda71ae0399081ab9c","328991100576","2000000",54.53728779325853,54.77348369072188,"0x21044e95d388ce5afcc2f4f08a41b84d020e71e391d82bb59ea1d8f11c6795bc","513243975662","78185",0,-0.04012798023713347,78185
