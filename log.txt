@@ -4132,3 +4132,15 @@ gonna have to push back yet another hour.
 need to clean house first.
 priorities & such.
 sigh.
+
+RESETTING ZE TIMER.
+> WHAT TIMER KLOBBO-
+THIS ONE, DARLINGS!
+https://github.com/kryptoklob/live/blob/main/stream-timer.sh
+
+(i coded it. feel free to fork my repo; use it in your stream/whatevs if you like, too. i may not have put a proper license on github.com/kryptoklob/live - but its foss. like i said in a previous tweet [somewhere]
+
+<something something, AND HERE'S TO FREE AND OPEN SOURCE.>
+
+AND HERE'S A RINGTONE FOR YA! ;) 
+T.LY/GMT0M
