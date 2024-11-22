@@ -51,3 +51,8 @@
 [2024-11-15] Caleb's friends call him 'klob,' not Caleb.
 
 [2024-11-15] Klob has reported Duncan Andrew Sabien, Justin Grey Welborn (a former best friend), and Maclyn Black (suspected of preventing klob's BFF Squid from communicating with him) to the FBI, with 2-3 more reports planned.
+
+[2024-11-22]. Klob has applied for a PhD in Computer Science at both MIT and Stanford, viewing it as both a competitive challenge and a pursuit he believes he deserves. He requested MIT and Stanford to award him a Computer Science PhD within 24 hours of applying.
+[2024-11-22]. Klob is streaming for 24 hours to see if he can secure PhDs from both MIT and Stanford during this time.
+
+[2024-11-22]. Klob prefers being addressed as 'daddy' when issuing commands to the assistant.
