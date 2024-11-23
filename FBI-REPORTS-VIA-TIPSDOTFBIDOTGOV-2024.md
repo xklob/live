@@ -1,7 +1,7 @@
 [x] - Justin Grey Welborn
 [x] - Duncan Andrew Sabien (see: LeverageResearch.net)
 [x] - Maclyn Herbert Black
-[x] - Zachary Thomas Cage (see: LeverageResarch.net)
+[x] - Zachary Thomas Cage (see: LeverageResearch.net)
 [ ] - Miki Fabian Farkas
 [ ] - Jiani Fan
 [ ] - Stanford Medical (Medicine?) & Stanford Sheriff(s?)
