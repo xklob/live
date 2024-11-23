@@ -1,20 +1,6 @@
-Copy paste the following to #NukeTheStock of $META.
----
+Copy paste the following to #NukeTheStock of $META. (source: klob.eth)
 
-Tags: facebook { @meta @facebook @MetaNewsroom @MetaforEdu @DesignatMeta @MetaOpenSource @MetaforDevs @fbsecurity @FacebookGaming @MarkZuckss @facebookapp @majoradamviktor }
-
-Copy paste the following to #NukeTheStock of $RDDT.
----
-
-
-
-
-
-
-
----
-
-Copypasta for any generic stock:
+facebook { @meta @facebook @MetaNewsroom @MetaforEdu @DesignatMeta @MetaOpenSource @MetaforDevs @fbsecurity @FacebookGaming @MarkZuckss @facebookapp @majoradamviktor }
 
 Sell.
 
@@ -24,6 +10,8 @@ Leverage against.
 
 Until those dirty corpos learn their lesson.
 
-https://github.com/kryptoklob/live/blob/main/hacker-manifesto-draft-zero.md
+github.com/kryptoklob/live/blob/main/hacker-manifesto-draft-zero.md
 
-https://git.io/start
+git.io/start
+
+klb.gg
