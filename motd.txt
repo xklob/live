@@ -1,3 +1,2 @@
 MOTD = Message of The Day.
-
-11/24/2024 - I love you. - klob.
+11/24/2024 - I love you - klob.
