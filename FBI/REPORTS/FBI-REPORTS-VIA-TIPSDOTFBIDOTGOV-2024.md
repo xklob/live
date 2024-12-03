@@ -6,7 +6,7 @@
 
 [x] - Zachary Thomas Cage (see: LeverageResearch.net)
 
-[ ] - Miki Fabian Farkas
+[X] - Miki Fabian Farkas
 
 [ ] - Jiani Fan
 
@@ -19,5 +19,3 @@
 [ ] - Rachel Michelle Davis (see: FireRachel.com)
 
 [ ] - Lauren Michelle Burch dive coach
-
-see: Court Documents Folder for more info & website once obsidian dot md gets their FUCKING SHIT TOGETHER.
